@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "On the Universal Truthfulness Hyperplane Inside LLMs"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: first_author
+permalink: /publication/2024-11-01-universal-truthfulness-hyperplane
+excerpt: 'First-author work investigating the universal truthfulness hyperplane inside LLMs (EMNLP 2024).'
+date: 2024-11-01
+venue: 'EMNLP 2024'
+paperurl: 'https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane'
+citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). &quot;On the Universal Truthfulness Hyperplane Inside LLMs.&quot; <i>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>.'
 ---
+This is a first-author publication. The paper investigates the universal truthfulness hyperplane inside LLMs.
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Authors: Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. Published at EMNLP 2024. The code is available in the Universal_Truthfulness_Hyperplane GitHub repository (https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane).
